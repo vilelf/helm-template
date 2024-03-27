@@ -1,0 +1,5 @@
+project: teste
+namespace: teste
+port: 8080
+
+tag: latest
